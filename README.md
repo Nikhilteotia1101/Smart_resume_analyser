@@ -37,13 +37,3 @@
 - For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
 - Admin side credentials is `machine_learning_hub` and password is `mlhub123`. 
 
-## Screenshots
-
-## User side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc1.png">
-
-## Admin Side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc2.png">
-
-# [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20)
-## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
